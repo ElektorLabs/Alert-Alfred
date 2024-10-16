@@ -32,7 +32,7 @@ alert-alfred is an AI-powered security system that uses computer vision to detec
   ```bash
   git clone https://github.com/hailo-ai/hailo-rpi5-examples.git
   ```
-- Follow the documentation in `hailo-rpi5-examples/doc/basic-pipelines.md` to set up the environment.
+- Follow the documentation in [`hailo-rpi5-examples/doc/basic-pipelines.md`](https://github.com/hailo-ai/hailo-rpi5-examples/blob/main/doc/basic-pipelines.md) to set up the environment.
 
 ### Step 2: Install Dependencies
 1. **Install Python Packages**:
